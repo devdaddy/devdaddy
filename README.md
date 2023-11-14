@@ -1,4 +1,4 @@
-### Hi there 👋
+<a href="https://app.daily.dev/devdaddy"><img src="https://api.daily.dev/devcards/44061904a14943b086fd55b89c5d8378.png?r=pv4" width="400" alt="Eric Schmuecker's Dev Card"/></a>
 
 <!--
 **devdaddy/devdaddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
